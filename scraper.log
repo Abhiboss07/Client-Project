@@ -1,0 +1,21 @@
+{"level":"info","message":"Loaded 3 test URLs.","timestamp":"2025-11-29T20:01:02.400Z"}
+{"level":"error","message":"TEST FAILED: browserType.launch: Executable doesn't exist at C:\\Users\\abhic\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1200\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝","timestamp":"2025-11-29T20:01:02.409Z"}
+{"level":"info","message":"Loaded 3 test URLs.","timestamp":"2025-11-29T20:01:38.525Z"}
+{"level":"error","message":"TEST FAILED: browserType.launch: Executable doesn't exist at C:\\Users\\abhic\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1200\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝","timestamp":"2025-11-29T20:01:38.535Z"}
+{"level":"info","message":"Loaded 3 test URLs.","timestamp":"2025-11-29T20:04:08.981Z"}
+{"level":"info","message":"Processing: https://www.ycombinator.com/companies/airbnb","timestamp":"2025-11-29T20:04:10.168Z"}
+{"level":"info","message":"Successfully scraped https://www.ycombinator.com/companies/airbnb","timestamp":"2025-11-29T20:04:15.537Z"}
+{"level":"info","message":"Processing: https://github.com/microsoft","timestamp":"2025-11-29T20:04:20.496Z"}
+{"level":"info","message":"Successfully scraped https://github.com/microsoft","timestamp":"2025-11-29T20:04:22.156Z"}
+{"level":"info","message":"Processing: https://www.linkedin.com/company/google","timestamp":"2025-11-29T20:04:23.416Z"}
+{"level":"info","message":"Successfully scraped https://www.linkedin.com/company/google","timestamp":"2025-11-29T20:04:25.429Z"}
+{"level":"error","message":"TEST FAILED: ENOENT: no such file or directory, open 'C:\\workspace\\clients.csv'","timestamp":"2025-11-29T20:04:27.992Z"}
+{"level":"info","message":"Loaded 3 test URLs.","timestamp":"2025-11-29T20:04:43.782Z"}
+{"level":"info","message":"Processing: https://www.ycombinator.com/companies/airbnb","timestamp":"2025-11-29T20:04:43.915Z"}
+{"level":"info","message":"Successfully scraped https://www.ycombinator.com/companies/airbnb","timestamp":"2025-11-29T20:04:45.912Z"}
+{"level":"info","message":"Processing: https://github.com/microsoft","timestamp":"2025-11-29T20:04:47.080Z"}
+{"level":"info","message":"Successfully scraped https://github.com/microsoft","timestamp":"2025-11-29T20:04:48.629Z"}
+{"level":"info","message":"Processing: https://www.linkedin.com/company/google","timestamp":"2025-11-29T20:04:51.936Z"}
+{"level":"info","message":"Successfully scraped https://www.linkedin.com/company/google","timestamp":"2025-11-29T20:04:53.842Z"}
+{"level":"info","message":"Results saved to clients.csv","timestamp":"2025-11-29T20:04:56.437Z"}
+{"level":"info","message":"TEST PASSED: clients.csv created and not empty.","timestamp":"2025-11-29T20:04:56.439Z"}

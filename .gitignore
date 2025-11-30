@@ -1,0 +1,13 @@
+node_modules/
+.env
+data/*.csv
+data/*.json
+!data/test_urls.json
+data/*.log
+*.zip
+.DS_Store
+coverage/
+.idea/
+.vscode/
+*.swp
+*.swo
